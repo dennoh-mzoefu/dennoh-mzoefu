@@ -6,8 +6,8 @@ I'm a passionate Full Stack Software Developer with expertise in modern web tech
 
 - 🔭 I'm currently working on **Rental Management System**
 - 🌱 I'm currently learning **German** and exploring advanced cloud architecture
-- 👯 I'm looking to collaborate on **E-commerce platforms, SaaS applications, and open-source projects**
-- 💬 Ask me about **React, TypeScript, Node.js, Python, and full-stack development**
+- 👯 I'm looking to collaborate on **Impactfull projects that are will bring value to the community**
+- 💬 Ask me about **React,Nextjs TypeScript, Node.js, Python, and full-stack development**
 - 📫 How to reach me: **denisgichana162@gmail.com**
 - 🌍 Based in: **Nairobi, Kenya**
 - ⚡ Fun fact: **I built my first production app for my dad's hardware shop - and it's still running strong!**
