@@ -54,20 +54,6 @@ I'm a passionate Full Stack Software Developer with expertise in modern web tech
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[dennoh-mzoefu]&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[dennoh-mzoefu]&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[dennoh-mzoefu]&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 🏆 Featured Projects
 
 ### 🌟 [Hardware Management System](https://github.com/yourusername/hardware-management)
